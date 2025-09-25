@@ -1,4 +1,4 @@
-# 🌐 Digital College - Login & Registration Page
+# Digital College - Login & Registration Page
 
 Welcome to my very first web development project! This repository contains a responsive, bilingual login and registration interface built using **HTML**, **CSS**, and **Font Awesome** icons. It was designed to simulate a modern authentication screen for a fictional platform called **Digital College**.
 
