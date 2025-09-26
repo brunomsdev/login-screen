@@ -21,5 +21,3 @@ Welcome to my very first web development project! This repository contains a res
 - HTML5
 - CSS3
 - Font Awesome (via CDN)
-
-## 📁 File Structure
