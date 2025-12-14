@@ -1,23 +1,42 @@
-# Digital College - Login & Registration Page
+# Login Screen (HTML & CSS)
 
-Welcome to my very first web development project! This repository contains a responsive, bilingual login and registration interface built using **HTML**, **CSS**, and **Font Awesome** icons. It was designed to simulate a modern authentication screen for a fictional platform called **Digital College**.
+Simple login screen created to practice **HTML** and **CSS** layout and styling.
 
-## 🚀 Features
+---
 
-- ✨ Split-screen layout with login and sign-up sections
-- 🌍 Bilingual interface (English & Portuguese)
-- 📱 Responsive design for desktop and mobile
-- 🔒 Input fields for name, email, and password
-- 🔗 Social media icons for alternative login options
-- 🎨 Smooth hover effects and transitions
+## 📌 Project Overview
 
-## 📸 Preview
+This project represents a static login screen interface.
+It was created as a small frontend exercise focused on layout, spacing, and visual structure.
 
-<img width="1913" height="884" alt="image" src="https://github.com/user-attachments/assets/4a822325-2f2b-4671-a18d-876cd81d167a" />
+---
 
+## ✨ Features
+- Static login form layout
+- Input fields and button styling
+- Clean HTML structure
+- Basic CSS styling
 
-## 🛠 Technologies Used
+---
 
+## 🛠 Tech Stack
 - HTML5
 - CSS3
-- Font Awesome (via CDN)
+
+---
+
+## 📚 Learning Goals
+- Practice form layout
+- Improve CSS styling skills
+- Work with basic UI components
+
+---
+
+## ▶️ Running the project
+
+Open the `index.html` file in your browser.
+
+---
+
+## 🧠 Notes
+This is a learning-focused exercise and not a production-ready application.
