@@ -4,14 +4,14 @@ Simple login screen created to practice **HTML** and **CSS** layout and styling.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project represents a static login screen interface.
 It was created as a small frontend exercise focused on layout, spacing, and visual structure.
 
 ---
 
-## ✨ Features
+## Features
 - Static login form layout
 - Input fields and button styling
 - Clean HTML structure
@@ -19,20 +19,20 @@ It was created as a small frontend exercise focused on layout, spacing, and visu
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - HTML5
 - CSS3
 
 ---
 
-## 📚 Learning Goals
+## Learning Goals
 - Practice form layout
 - Improve CSS styling skills
 - Work with basic UI components
 
 ---
 
-## ▶️ Running the project
+## Running the project
 
 Open the `index.html` file in your browser.
 
